@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CustomizingAspNet.Logging", "CustomizingAspNet.Logging\CustomizingAspNet.Logging.csproj", "{C9E2A23B-518C-4279-825D-836A151B8F17}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CustomizingAspNet.AppConfiguration", "CustomizingAspNet.AppConfiguration\CustomizingAspNet.AppConfiguration.csproj", "{3C190FDA-81E9-46DA-863F-9B314FFFA167}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CustomizingAspNet.Kestrel", "CustomizingAspNet.Kestrel\CustomizingAspNet.Kestrel.csproj", "{DAFA7C54-1871-468D-B474-149492430441}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CustomizingAspNet.Middleware", "CustomizingAspNet.Middleware\CustomizingAspNet.Middleware.csproj", "{D4F8AEDA-659A-4283-888E-B7EA24BC0D59}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CustomizingAspNet.Endpoints", "CustomizingAspNet.Endpoints\CustomizingAspNet.Endpoints.csproj", "{B035FCD1-5B36-4A08-A392-D495A68F9AF4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomizingAspNet.Scrutor", "CustomizingAspNet.Scrutor\CustomizingAspNet.Scrutor.csproj", "{389DB4D7-7483-4EC2-8850-2F4794358AFE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C9E2A23B-518C-4279-825D-836A151B8F17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9E2A23B-518C-4279-825D-836A151B8F17}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9E2A23B-518C-4279-825D-836A151B8F17}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9E2A23B-518C-4279-825D-836A151B8F17}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3C190FDA-81E9-46DA-863F-9B314FFFA167}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C190FDA-81E9-46DA-863F-9B314FFFA167}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C190FDA-81E9-46DA-863F-9B314FFFA167}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C190FDA-81E9-46DA-863F-9B314FFFA167}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DAFA7C54-1871-468D-B474-149492430441}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DAFA7C54-1871-468D-B474-149492430441}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DAFA7C54-1871-468D-B474-149492430441}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DAFA7C54-1871-468D-B474-149492430441}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D4F8AEDA-659A-4283-888E-B7EA24BC0D59}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4F8AEDA-659A-4283-888E-B7EA24BC0D59}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4F8AEDA-659A-4283-888E-B7EA24BC0D59}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4F8AEDA-659A-4283-888E-B7EA24BC0D59}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B035FCD1-5B36-4A08-A392-D495A68F9AF4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B035FCD1-5B36-4A08-A392-D495A68F9AF4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B035FCD1-5B36-4A08-A392-D495A68F9AF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B035FCD1-5B36-4A08-A392-D495A68F9AF4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{389DB4D7-7483-4EC2-8850-2F4794358AFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{389DB4D7-7483-4EC2-8850-2F4794358AFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{389DB4D7-7483-4EC2-8850-2F4794358AFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{389DB4D7-7483-4EC2-8850-2F4794358AFE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2B6D1491-9807-474D-9F6B-D441D53F91ED}
+	EndGlobalSection
+EndGlobal
