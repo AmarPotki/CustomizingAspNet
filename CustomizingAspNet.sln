@@ -13,7 +13,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CustomizingAspNet.Middlewar
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CustomizingAspNet.Endpoints", "CustomizingAspNet.Endpoints\CustomizingAspNet.Endpoints.csproj", "{B035FCD1-5B36-4A08-A392-D495A68F9AF4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomizingAspNet.Scrutor", "CustomizingAspNet.Scrutor\CustomizingAspNet.Scrutor.csproj", "{389DB4D7-7483-4EC2-8850-2F4794358AFE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CustomizingAspNet.Scrutor", "CustomizingAspNet.Scrutor\CustomizingAspNet.Scrutor.csproj", "{389DB4D7-7483-4EC2-8850-2F4794358AFE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomizingAspNet.HostedServices", "CustomizingAspNet.HostedServices\CustomizingAspNet.HostedServices.csproj", "{78E027C7-27D5-44FC-9C93-41D393FBBA9C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WeatherService.Api", "WeatherService.Api\WeatherService.Api.csproj", "{87BC321A-FE24-4208-B3D0-5A9DF12FFD4C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +49,14 @@ Global
 		{389DB4D7-7483-4EC2-8850-2F4794358AFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{389DB4D7-7483-4EC2-8850-2F4794358AFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{389DB4D7-7483-4EC2-8850-2F4794358AFE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{78E027C7-27D5-44FC-9C93-41D393FBBA9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78E027C7-27D5-44FC-9C93-41D393FBBA9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78E027C7-27D5-44FC-9C93-41D393FBBA9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78E027C7-27D5-44FC-9C93-41D393FBBA9C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{87BC321A-FE24-4208-B3D0-5A9DF12FFD4C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87BC321A-FE24-4208-B3D0-5A9DF12FFD4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87BC321A-FE24-4208-B3D0-5A9DF12FFD4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87BC321A-FE24-4208-B3D0-5A9DF12FFD4C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
